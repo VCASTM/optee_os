@@ -12,8 +12,6 @@
 #include <dt-bindings/mfd/st,stpmic2.h>
 #include <kernel/delay.h>
 #include <kernel/dt.h>
-#include <kernel/interrupt.h>
-#include <kernel/notif.h>
 #include <kernel/panic.h>
 #include <kernel/pm.h>
 #include <libfdt.h>
